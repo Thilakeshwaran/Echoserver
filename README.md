@@ -59,7 +59,8 @@ print("Server closed.")
 ```
 
 ## OUTPUT:
-![echo-output](https://github.com/user-attachments/assets/fe925cc2-9e08-41d0-b4f7-912993cdd95c)
+![client-server OUTPUT](https://github.com/user-attachments/assets/c85f3624-86d9-4c7d-9c3d-ab66a914d681)
+
 
 
 ## RESULT:
